@@ -1,3 +1,6 @@
+REPO: https://github.com/amoltafet/ml1
+clone it.
+
 Download the dataset from the below link:
 2 datasets are used in this code:
 # 1. Aids 15000 Classification (https://www.kaggle.com/datasets/aadarshvelu/aids-virus-infection-prediction)
